@@ -12,8 +12,8 @@ This repository contains my completed hands-on activities, code implementations,
 | **Hands-on Activity 3.1** | Linked Lists | Submitted (Late) | Jul 29 |
 | **Hands-on Activity 4.1** | Stacks | Submitted | Jul 31 |
 | **Hands-on Activity 5.1** | Queues | Submitted | Aug 8 |
-| **Hands-on Activity 6.1** | Searching Techniques | Submitted (Late) | Sep 3 |
-| **Hands-on Activity 7.1** | Sorting Algorithms Pt1 | Submitted | Submitted |
+| **Hands-on Activity 6.1** | Searching Techniques | Submitted (Late) | Sep 2 |
+| **Hands-on Activity 7.1** | Sorting Algorithms Pt1 | Submitted | Sep 3 |
 | **Hands-on Activity 8.1** | Sorting Algorithms Pt2 | Submitted | Sep 16 |
 | **Hands-on Activity 10.1** | Graphs | Submitted | Oct 2 |
 | **Hands-on Activity 11.1** | Basic Algorithm Analysis | Submitted | Oct 7 |
