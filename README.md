@@ -8,7 +8,7 @@ This repository contains my submitted C++ implementations for the Hands-on Activ
 
 | # | Activity Title | Date Submitted | Status | Folders |
 | :-: | :--- | :-: | :-: | :-: |
-| **1.1** | Basic C++ Programming | Jul 15, 2:05 PM | Submitted | [Algorithm Complexity](./Hands%20On%20Activity%201.1) |
+| **1.1** | Basic C++ Programming | Jul 15, 2:05 PM | Submitted | [HOA1p1](./Hands%20On%20Activity%201.1) |
 | **2.1** | Arrays, Pointers and Dynamic Memory Allocation | Jul 17, 6:36 PM | Submitted | [View Code]() |
 | **3.1** | Linked Lists | Jul 29, 4:57 PM | Submitted (Late) | [View Code]() |
 | **4.1** | Stacks | Jul 31, 6:18 PM | Submitted | [View Code]() |
