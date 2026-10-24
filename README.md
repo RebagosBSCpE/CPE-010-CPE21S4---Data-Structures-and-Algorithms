@@ -14,7 +14,6 @@ This repository contains my submitted C++ implementations for the Hands-on Activ
 | **4.1** | Stacks | Jul 31, 6:18 PM | Submitted |
 | **5.1** | Queues | Aug 8, 11:51 PM | Submitted |
 | **6.1** | Searching Techniques | Sep 3, 1:50 PM | Submitted (Late) |
-| **7.1** | Sorting Algorithms Pt1 | — | Submitted |
 | **8.1** | Sorting Algorithms Pt2 | Sep 16, 5:19 PM | Submitted |
 | **10.1** | Graphs | Oct 2, 6:46 PM | Submitted |
 | **11.1** | Basic Algorithm Analysis | Oct 7, 7:06 PM | Submitted |
